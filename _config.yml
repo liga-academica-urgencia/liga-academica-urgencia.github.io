@@ -1,14 +1,14 @@
 # Site settings
-title: Clean Blog
+title: Liga Acadêmica de Urgência, Trauma e Emergência
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+copyright_name: Liga Acadêmica de Urgência, Trauma e Emergência
+description: "Liga Acadêmica de Urgência, Trauma e Emergência da Universidade de São João del Rei"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
+github_username:  Liga Acadêmica
+facebook_username:  lauteufsj
 email_username:  your-email@yourdomain.com
 
 # Google Analytics
