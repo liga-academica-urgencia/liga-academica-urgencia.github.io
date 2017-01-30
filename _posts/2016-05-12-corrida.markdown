@@ -13,4 +13,9 @@ header-img: "img/home-bg.jpg"
     <img src="{{ site.baseurl }}/img/post2_f1.jpg" alt="Massagem Cardíaca">
     
 </a>
-<img src="{{ site.baseurl }}/img/post2_f1.jpg" alt="Massagem Cardíaca">
+<div style="widht: 45%; float: left;">
+    <img src="{{ site.baseurl }}/img/post2_f2.jpg" alt="Massagem Cardíaca">
+</div>
+<div style="widht: 45%; float: right;">
+    <img src="{{ site.baseurl }}/img/post2_f3.jpg" alt="Massagem Cardíaca">
+</div>
