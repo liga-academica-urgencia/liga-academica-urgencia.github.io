@@ -11,8 +11,8 @@ header-img: "img/home-bg.jpg"
 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post2_f1.jpg" alt="Massagem Cardíaca">
-    
 </a>
+
 <div style="widht: 45%; float: left;">
     <img src="{{ site.baseurl }}/img/post2_f2.jpg" alt="Massagem Cardíaca">
 </div>
