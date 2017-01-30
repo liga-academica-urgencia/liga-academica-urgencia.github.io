@@ -2,7 +2,7 @@
 layout:     post
 title:      "Dia do Trauma UFSJ"
 subtitle:   "Atenção! As inscrições estão abertas!"
-date:       2016-05-18 12:00:00
+date:       2016-05-15 12:00:00
 author:     "Liga Acadêmica"
 <!-- header-img: "img/post_liga_trauma_1.jpg" -->
 ---
